@@ -6,8 +6,8 @@ import time
 
 
 def sendemail(message):
-    email = 'kannomonster@gmail.com'
-    password = 'CandyZ.1999'
+    email = 'email@gmail.com'
+    password = 'password'
 
     header = 'From: %s\n' % (email)
     header += 'To: %s\n' % (email)
